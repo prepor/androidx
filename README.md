@@ -180,3 +180,4 @@ AndroidX uses git to store all the binary Gradle dependencies. They are stored i
 ## Features
 
 * Feature 1
+* Feature 2
