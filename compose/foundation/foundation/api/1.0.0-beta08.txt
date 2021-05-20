@@ -649,6 +649,9 @@ package androidx.compose.foundation.text {
   public final class StringHelpersKt {
   }
 
+  public final class StringHelpers_androidKt {
+  }
+
   public final class StringHelpers_jvmKt {
   }
 
@@ -683,6 +686,12 @@ package androidx.compose.foundation.text {
   }
 
   public final class TouchMode_androidKt {
+  }
+
+  public final class UndoManagerKt {
+  }
+
+  public final class UndoManager_jvmKt {
   }
 
 }

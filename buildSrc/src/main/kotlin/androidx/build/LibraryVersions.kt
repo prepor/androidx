@@ -20,7 +20,7 @@ package androidx.build
  * The list of versions codes of all the libraries in this project.
  */
 object LibraryVersions {
-    val ACTIVITY = Version("1.3.0-alpha09")
+    val ACTIVITY = Version("1.3.0-beta01")
     val ADS_IDENTIFIER = Version("1.0.0-alpha05")
     val ANNOTATION = Version("1.3.0-alpha01")
     val ANNOTATION_EXPERIMENTAL = Version("1.2.0-alpha01")
@@ -81,7 +81,7 @@ object LibraryVersions {
     val LEANBACK_TAB = Version("1.1.0-beta01")
     val LEGACY = Version("1.1.0-alpha01")
     val LOCALBROADCASTMANAGER = Version("1.1.0-alpha02")
-    val LIFECYCLE = Version("2.4.0-alpha01")
+    val LIFECYCLE = Version("2.4.0-alpha02")
     val LIFECYCLE_VIEWMODEL_COMPOSE = Version("1.0.0-alpha06")
     val LIFECYCLE_EXTENSIONS = Version("2.2.0")
     val LOADER = Version("1.2.0-alpha01")
